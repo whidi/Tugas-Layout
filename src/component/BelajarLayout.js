@@ -57,6 +57,9 @@ const styles = StyleSheet.create({
   },
   box3: {
     flex: 1,
+    marginTop: 10,
+    marginLeft: 10,
+    marginRight: 10,
     backgroundColor: '#80D7FF',
     justifyContent: 'space-around',
     alignItems: 'center',
@@ -64,6 +67,9 @@ const styles = StyleSheet.create({
   },
   box4: {
     flex: 1,
+  //  marginTop: 10,
+    marginLeft: 10,
+    marginRight: 10,
     backgroundColor: '#80D7FF',
     justifyContent: 'space-around',
     alignItems: 'center',
@@ -71,6 +77,9 @@ const styles = StyleSheet.create({
   },
   box6: {
     flex: 1,
+    //marginTop: 10,
+    marginLeft: 10,
+    marginRight: 10,
     backgroundColor: '#80D7FF',
     justifyContent: 'space-around',
     alignItems: 'center',
